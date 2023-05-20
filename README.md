@@ -1,6 +1,6 @@
 <img src="void.jpeg" style="object-fit: cover; width:1200px; height:200px;"/>
 
-# Welcome to my GitHub!
+# Welcome to my GitHub
 
 💬 Research & Project Blog: https://romanmichaelpaolucci.medium.com/
 
