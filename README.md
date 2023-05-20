@@ -1,4 +1,4 @@
-<img src="void.jpeg" style="width:1600px; height:200px;"/>
+<img src="void.jpeg" style="width:1200px; height:200px;"/>
 
 # Welcome to my GitHub!
 
