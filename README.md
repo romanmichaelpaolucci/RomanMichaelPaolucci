@@ -14,7 +14,7 @@
 
 ## ⚡ Fun Facts ⚡
 - purple belt in BJJ @ Gorilla BJJ Academy
-- retired bodybuilder
+- retired Men's Physique competitor
 
 ## 📫 Reach Me 📫
 - romanmichaelpaolucci@gmail.com
