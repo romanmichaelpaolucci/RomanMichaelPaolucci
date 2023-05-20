@@ -6,7 +6,7 @@
 
 ## 🌱 Current Projects 🌱
 -  eLearning and online school development
--  AI toolkits for educators (https://quickthinkai.com)
+-  AI toolkits for educators (https://www.quickthinkai.com)
 
 ## 🔭 Research Projects 🔭
 - applied randomized numerical linear algebra
