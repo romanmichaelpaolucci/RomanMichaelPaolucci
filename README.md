@@ -13,7 +13,7 @@
 - machine learning for approximating pricing functionals
 
 ## ⚡ Fun Facts ⚡
-- purple belt in BJJ @ Gorilla BJJ Academy
+- purple belt in BJJ @ Gorilla BJJ Academy 🟪⬛🟪
 - retired Men's Physique competitor
 
 ## 📫 Reach Me 📫
