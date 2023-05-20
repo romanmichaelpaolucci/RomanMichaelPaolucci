@@ -9,7 +9,7 @@
 -  AI toolkits for educators (https://www.quickthinkai.com)
 
 ## 🔭 Research Projects 🔭
-- applied randomized numerical linear algebra
+- applied randomized numerical linear algebra in matrix decompositions
 - machine learning for approximating pricing functionals
 
 ## ⚡ Fun Facts ⚡
