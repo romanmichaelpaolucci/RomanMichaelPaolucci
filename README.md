@@ -1,4 +1,4 @@
-<img src="void.jpeg" style="width:1280px; height:640px;"/>
+<img src="void.jpeg" style="width:640px; height:320px;"/>
 
 <!--
 **romanmichaelpaolucci/RomanMichaelPaolucci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
