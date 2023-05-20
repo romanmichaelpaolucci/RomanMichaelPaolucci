@@ -1,6 +1,4 @@
-<img src="void.jpeg"
-     alt="void"
-     style="height: 100px; width: 100%; object-fit: cover;" />
+<div style="background-image: void.jpeg; width:200px; height:100px; background-position:center;"></div>
 
 <!--
 **romanmichaelpaolucci/RomanMichaelPaolucci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
