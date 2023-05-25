@@ -14,7 +14,7 @@
 
 ## ⚡ Fun Facts ⚡
 - purple belt in BJJ @ Gorilla BJJ Academy 🟪⬛🟪
-- retired Men's Physique competitor and LAX Middie
+- retired Men's Physique competitor
 
 ## 📫 Reach Me 📫
 - romanmichaelpaolucci@gmail.com
