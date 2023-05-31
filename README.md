@@ -14,6 +14,7 @@
 
 ## ⚡ Fun Facts ⚡
 - purple belt in BJJ @ Gorilla BJJ Academy 🟪⬛🟪
+- owner of https://prehistoricfightgear.com
 - retired Men's Physique competitor
 
 ## 📫 Reach Me 📫
