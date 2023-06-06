@@ -2,19 +2,21 @@
 
 # Welcome to my GitHub
 
-💬 Research & Project Blog: https://romanmichaelpaolucci.medium.com/
+💬 Research & Project Blog: https://www.romanmichaelpaolucci.medium.com/
 
 ## 🌱 Current Projects 🌱
 -  eLearning and online school development
--  AI toolkits for educators (https://www.quickthinkai.com)
+-  AI toolkits for educators and tutors (https://www.quickthinkai.com)
 
 ## 🔭 Research Projects 🔭
 - GPU and applied randomized numerical linear algebra in matrix decompositions
 - machine learning for approximating pricing functionals
+- (owner) QFin: A Python Library for Mathematical Finance (https://pypi.org/project/QFin/, https://www.youtube.com/@QuantGuild/featured)
 
 ## ⚡ Fun Facts ⚡
 - purple belt in BJJ @ Gorilla BJJ Academy 🟪⬛🟪
 - owner of https://prehistoricfightgear.com
+- owner of https://glowbugcoffee.com
 - retired Men's Physique competitor
 
 ## 📫 Reach Me 📫
