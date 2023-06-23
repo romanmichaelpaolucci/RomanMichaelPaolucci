@@ -17,6 +17,7 @@
 - purple belt in BJJ @ Gorilla BJJ Academy 🟪⬛🟪
 - owner of https://prehistoricfightgear.com
 - owner of https://glowbugcoffee.com
+- owner of https://fundalunch.org
 - retired Men's Physique competitor
 
 ## 📫 Reach Me 📫
