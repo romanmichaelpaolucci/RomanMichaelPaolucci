@@ -18,6 +18,7 @@
 - owner of https://prehistoricfightgear.com
 - owner of https://glowbugcoffee.com
 - owner of https://fundalunch.org
+- partner @ Eight Lantern
 - retired Men's Physique competitor
 
 ## 📫 Reach Me 📫
