@@ -2,7 +2,7 @@
 
 # Welcome to my GitHub
 
-💬 Research & Project Blog: https://www.romanmichaelpaolucci.medium.com/
+💬 Research & Project Blog: https://medium.com/@romanmichaelpaolucci
 
 ## 🌱 Current Projects 🌱
 -  eLearning and online school development (https://medium.com/saddle-river-day-ctcs, https://github.com/Saddle-River-Day-CTCS, https://www.youtube.com/channel/UC_gquluAIogoX_SOKdukW4w)
