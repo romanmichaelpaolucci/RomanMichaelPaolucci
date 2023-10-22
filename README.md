@@ -15,11 +15,7 @@
 
 ## ⚡ Fun Facts ⚡
 - purple belt in BJJ @ Gorilla BJJ Academy 🟪⬛🟪
-- owner of https://prehistoricfightgear.com
-- owner of https://glowbugcoffee.com
-- owner of https://fundalunch.org
-- partner @ Eight Lantern
-- retired Men's Physique competitor
+- Graduate Student @ Columbia University
 
 ## 📫 Reach Me 📫
 - romanmichaelpaolucci@gmail.com
