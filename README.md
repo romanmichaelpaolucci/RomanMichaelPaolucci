@@ -1,4 +1,4 @@
-<img src="banner.PNG" style="object-fit: cover; width:1200px; height:225px;"/>
+<img src="banner.PNG" style="object-fit: cover; width:1200px; height:200px;"/>
 
 # Welcome to my GitHub
 
@@ -13,7 +13,7 @@
 - Graduate Student @ Columbia University
 - purple belt in BJJ @ Gorilla BJJ Academy
 
-## 📫 Reach Me 📫
+## 📫 Contact Info 📫
 - roman.paolucci@columbia.edu
 - romanmichaelpaolucci@gmail.com
 
