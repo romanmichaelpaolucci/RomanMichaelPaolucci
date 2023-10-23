@@ -4,20 +4,17 @@
 
 💬 Research & Project Blog: https://medium.com/@romanmichaelpaolucci
 
-## 🌱 Current Projects 🌱
--  eLearning and online school development (https://medium.com/saddle-river-day-ctcs, https://github.com/Saddle-River-Day-CTCS, https://www.youtube.com/channel/UC_gquluAIogoX_SOKdukW4w)
--  AI toolkits for educators and tutors (https://www.quickthinkai.com)
-
-## 🔭 Research Projects 🔭
-- GPU and applied randomized numerical linear algebra in matrix decompositions
-- machine learning for approximating pricing functionals
-- (owner) QFin: A Python Library for Mathematical Finance (https://pypi.org/project/QFin/, https://www.youtube.com/@QuantGuild/featured)
+## 🔭 Projects 🔭
+- QFin: A Python Library for Mathematical Finance (https://pypi.org/project/QFin/)
+- Quant Guild: https://www.youtube.com/@QuantGuild/featured
+- BytePotion: https://www.bytepotion.com
 
 ## ⚡ Fun Facts ⚡
-- purple belt in BJJ @ Gorilla BJJ Academy 🟪⬛🟪
 - Graduate Student @ Columbia University
+- purple belt in BJJ @ Gorilla BJJ Academy
 
 ## 📫 Reach Me 📫
+- roman.paolucci@columbia.edu
 - romanmichaelpaolucci@gmail.com
 
 <!--
