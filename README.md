@@ -1,4 +1,4 @@
-<img src="banner.PNG" style="object-fit: cover; width:1200px; height:250px;"/>
+<img src="banner.PNG" style="object-fit: cover; width:1200px; height:225px;"/>
 
 # Welcome to my GitHub
 
