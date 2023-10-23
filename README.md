@@ -11,7 +11,8 @@
 
 ## ⚡ Fun Facts ⚡
 - Graduate Student @ Columbia University
-- purple belt in BJJ @ Gorilla BJJ Academy
+- Purple belt in BJJ @ Gorilla BJJ Academy
+- (owner) Fund a Lunch A NJ Non-Profit Corporation
 
 ## 📫 Contact Info 📫
 - roman.paolucci@columbia.edu
