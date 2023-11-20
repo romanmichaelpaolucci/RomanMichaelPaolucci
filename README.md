@@ -6,7 +6,7 @@
 
 ## 🔭 Projects 🔭
 - QFin: A Python Library for Mathematical Finance (https://pypi.org/project/QFin/)
-- Quant Guild: https://www.youtube.com/@QuantGuild/featured
+- Quant Guild: https://quantguild.com
 - BytePotion: https://www.bytepotion.com
 
 ## ⚡ Fun Facts ⚡
