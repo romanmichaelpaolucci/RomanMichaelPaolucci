@@ -1,7 +1,5 @@
 <img src="banner.PNG.png" style="object-fit: cover; width:1000px; height:300px;"/>
 
-<iframe height="90px" width="310px" frameborder="0" src="https://socialcounts.org/youtube-live-subscriber-count/UCW1svfGxG4ADnbc1HCH6dqA/embed" allowFullScreen></iframe>
-
 # Welcome to my GitHub
 
 💬 Research & Project Blog: https://medium.com/@romanmichaelpaolucci
