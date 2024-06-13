@@ -2,6 +2,8 @@
 
 # Welcome to my GitHub
 
+Academic Website: https://romanmichaelpaolucci.github.io
+
 💬 Research & Project Blog: https://medium.com/@romanmichaelpaolucci
 
 ## 🔭 Projects 🔭
