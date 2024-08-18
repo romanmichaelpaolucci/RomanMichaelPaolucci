@@ -15,7 +15,6 @@ Academic Website: https://romanmichaelpaolucci.github.io
 - Graduate Student @ Columbia University
 - Purple belt in BJJ @ Gorilla BJJ Academy
 - (owner) Fund a Lunch A NJ Non-Profit Corporation
-- (owner) QuickThinkAI
 
 ## 📫 Contact Info 📫
 - roman.paolucci@columbia.edu
