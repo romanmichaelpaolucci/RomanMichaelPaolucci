@@ -6,6 +6,8 @@
 - Test your trading skills in a free open-source market making game
 - https://www.practicemarketmaking.com
 
+## Portfolios
+
 Academic Website: https://romanmichaelpaolucci.github.io
 
 💬 Research & Project Blog: https://medium.com/@romanmichaelpaolucci
