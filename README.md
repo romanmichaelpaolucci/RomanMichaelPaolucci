@@ -1,30 +1,30 @@
-<img src="banner.PNG.png" style="object-fit: cover; width:1000px; height:300px;"/>
+<a href="https://www.quantguild.com"><img src="banner.PNG.png" style="object-fit: cover; width:1000px; height:300px;"/></a>
 
-# Welcome to my GitHub
+## 🚀 Become a Quant with <a href="https://www.quantguild.com">Quant Guild</a>
+Rank up your quantitative skills on Quant Guild by practicing math, probability, computer science, and finance questions designed to give you the background you need to pursue a career as a quant.
 
-## Market Making Game
-- Test your trading skills in a free open-source market making game
-- https://www.practicemarketmaking.com
-
-## Portfolios
-
-Academic Website: https://romanmichaelpaolucci.github.io
-
-💬 Research & Project Blog: https://medium.com/@romanmichaelpaolucci
-
-## 🔭 Projects 🔭
-- QFin: A Python Library for Mathematical Finance (https://pypi.org/project/QFin/)
-- Quant Guild: https://quantguild.com
-- BytePotion: https://www.bytepotion.com
-
-## ⚡ Fun Facts ⚡
-- Graduate Student @ Columbia University
-- Purple belt in BJJ @ Gorilla BJJ Academy
-- (owner) Fund a Lunch A NJ Non-Profit Corporation
+#### 🌱 Useful Links
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+  <body>
+             <ul>
+                <a href="https://www.youtube.com/@QuantGuild" target="_blank"><li><i class="fab fa-youtube"></i> YouTube</li></a>
+                <a href="https://www.tiktok.com/@quantguild" target="_blank"><li><i class="fab fa-tiktok"></i> Tik Tok</li></a>
+                <a href="https://www.instagram.com/quantguild/" target="_blank"><li><i class="fab fa-instagram"></i> Instagram</li></a>
+                <a href="https://www.linkedin.com/company/quant-guild" target="_blank"><li><i class="fab fa-linkedin"></i> LinkedIn</li></a>
+                <a href="https://romanmichaelpaolucci.medium.com" target="_blank"><li><i class="fab fa-medium"></i> Medium</li></a>
+                <a href="https://github.com/romanmichaelpaolucci" target="_blank"><li><i class="fab fa-github"></i> GitHub</li></a>
+                <a href="https://discord.com/invite/MJ4FU2c6c3" target="_blank"><li><i class="fab fa-discord"></i> Discord</li></a>
+            </ul>
+    </body>
+</html>
 
 ## 📫 Contact Info 📫
-- roman.paolucci@columbia.edu
-- romanmichaelpaolucci@gmail.com
+- support [at] quantguild [dot] com
+
 
 <!--
 **romanmichaelpaolucci/RomanMichaelPaolucci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
