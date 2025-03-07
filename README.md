@@ -24,6 +24,7 @@ Rank up your quantitative skills on Quant Guild by practicing math, probability,
 
 ## 📫 Contact Info 📫
 - support [at] quantguild [dot] com
+- roman [dot] paolucci [at] columbia [dot] edu
 
 
 <!--
