@@ -3,7 +3,7 @@
 ## 🚀 Become a Quant with <a href="https://www.quantguild.com">Quant Guild</a>
 Rank up your quantitative skills on Quant Guild by practicing math, probability, computer science, and finance questions designed to give you the background you need to pursue a career as a quant.
 
-#### 🌱 Useful Links
+#### 🌱 Links
 <html>
 <head>
     <meta charset="UTF-8">
