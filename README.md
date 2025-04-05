@@ -1,6 +1,6 @@
-<a href="https://www.quantguild.com"><img src="banner.PNG.png" style="object-fit: cover; width:1000px; height:300px;"/></a>
+<a href="https://www.quantguild.com"><img src="banner.png" style="object-fit: cover; width:1000px; height:300px;"/></a>
 
-## 🚀 Become a Quant with <a href="https://www.quantguild.com">Quant Guild</a>
+## 🚀 Master Quantitative Skills with <a href="https://www.quantguild.com">Quant Guild</a>
 Rank up your quantitative skills on Quant Guild by practicing math, probability, computer science, and finance questions designed to give you the background you need to pursue a career as a quant.
 
 #### 🌱 Links
