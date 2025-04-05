@@ -1,4 +1,4 @@
-<a href="https://www.quantguild.com"><img src="banner.png"/></a>
+<a href="https://www.quantguild.com"><img src="banner1.png"/></a>
 
 ## 🚀 Master Quantitative Skills with <a href="https://www.quantguild.com">Quant Guild</a>
 Level up your skills in math, probability, and finance with a gamified, rank-based learning experience.
