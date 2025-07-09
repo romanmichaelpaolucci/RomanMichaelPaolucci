@@ -12,10 +12,12 @@ I built **Quant Guild** from scratch to help aspiring quants learn the necessary
 
 ## 📚 Roman's Lecture Video Library
 
-I quite enjoy lecturing about quantitative topics.  I have 100+ lecture videos available on topics ranging from randomized numerical linear algebra to the simulation of fractional Brownian motion.
+I quite enjoy lecturing about quantitative topics.  
 
+I have 100+ lecture videos available on topics ranging from randomized numerical linear algebra to the simulation of fractional Brownian motion.
 [YouTube Channel](https://youtube.com/@QuantGuild)
 
+I've also created a repo containing all of the relevant resources for each video lecture.
 [Jupyter Notebook Library](https://github.com/romanmichaelpaolucci/Quant-Guild-Library)
 
 ---
