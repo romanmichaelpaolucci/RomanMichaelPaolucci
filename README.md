@@ -10,7 +10,7 @@ I built **Quant Guild** from scratch to help aspiring quants learn the necessary
 
 ---
 
-## 📚 Roman's Lecture Video Library
+## 📚 Lecture Video Library
 
 I quite enjoy lecturing about quantitative topics.  
 
