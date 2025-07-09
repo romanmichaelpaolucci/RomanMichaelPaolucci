@@ -22,6 +22,23 @@ I've also created a repo containing all of the relevant resources for each video
 
 ---
 
+## 🐍 Python Libraries
+
+**Python Packages:**
+* **[Q-Fin](https://github.com/romanmichaelpaolucci/Q-Fin)**: (A working Python library for mathematical finance.)
+* **[Gaussian Cookbook](https://github.com/romanmichaelpaolucci/GaussianCookbook)**: (A series of notes (articles) and an open-source Python library for simulating stochastic processes.  Currently in development.)
+
+---
+
+## 💎 Artifacts
+
+**Websites**
+* **[Gaussian Cookbook](https://gaussiancookbook.com)** (Recipes for simulating stochastic processes by Chef Roman Paolucci.)
+* **[Practice Market Making](https://practicemarketmaking.com)**: (A statistical market-making game where the player may act as the market maker or participant.)
+* **[Byte Potion](https://bytepotion.com)**: (A suite of finance apps for quantitative research.)
+
+---
+
 ## 📫 Connect with Me
 
 **Socials:**
