@@ -1,4 +1,4 @@
-# 👋 I'm Roman, and Founder of Quant Guild
+# 👋 I'm Roman, Founder of Quant Guild
 
 <a href="https://www.quantguild.com"><img src="banner5.PNG" alt="Quant Guild Logo"/></a>
 
