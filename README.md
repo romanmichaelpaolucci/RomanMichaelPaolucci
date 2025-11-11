@@ -51,9 +51,8 @@ I've also created a repo containing all of the relevant resources for each video
 * **LinkedIn (Personal):** [rmp99](https://www.linkedin.com/in/rmp99/)
 * **LinkedIn (Company):**[@quantguild](https://www.linkedin.com/company/quant-guild)
 
-*To inquire about a seminar for your student group or organization please reach out to either of the following:*
-- **Support:** support [at] quantguild [dot] com
-- **Personal:** roman [dot] paolucci [at] columbia [dot] edu
+*To inquire about a seminar for your student group or organization please reach out to the following email:*
+- 📩 support [at] quantguild [dot] com
 
 ---
 
