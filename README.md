@@ -1,6 +1,12 @@
-# 👋 I'm Roman, Founder of Quant Guild
+# 👋 I'm Roman, Founder of Quant Guild, CEO of discourses.io
 
 <a href="https://www.quantguild.com"><img src="qgframe.PNG" alt="Quant Guild Logo"/></a>
+
+## 🌀 discourses.io | Where Markets are Discussed
+
+A financial social media app and data product leveraging academic and professional quantitative research
+
+[discourses.io](https://discourses.io)
 
 ## 🚀 Master Quantitative Skills with Quant Guild
 
@@ -27,6 +33,7 @@ I've also created a repo containing all of the relevant resources for each video
 ## 🐍 Python Libraries
 
 **Python Packages:**
+* **[discourses.io](https://github.com/romanmichaelpaolucci/discourses)** 
 * **[Q-Fin](https://github.com/romanmichaelpaolucci/Q-Fin)**: (A working Python library for mathematical finance. *Deployed, in development*)
 * **[Gaussian Cookbook](https://github.com/romanmichaelpaolucci/GaussianCookbook)**: (A series of notes (articles) and an open-source Python library for simulating stochastic processes.  *Not Deployed, in development*)
 
@@ -44,6 +51,7 @@ I've also created a repo containing all of the relevant resources for each video
 ## 📫 Connect with Me
 
 **Socials:**
+* **discourses.io** [@quantguild](https://discourses.io/u/quantguild)
 * **Instagram:** [@quantguild](https://www.instagram.com/quantguild)
 * **TikTok:** [@quantguild](https://www.tiktok.com/@quantguild)
 * **Medium:** [@quantguild](https://medium.com/@quantguild)
