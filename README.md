@@ -4,7 +4,7 @@
 
 ## 🌀 discourses.io | Where Markets are Discussed
 
-A financial social media app and data product leveraging academic and professional quantitative research
+A (free) financial social media app and data product leveraging academic and professional quantitative research
 
 [discourses.io](https://discourses.io)
 
