@@ -61,6 +61,6 @@ I've also created a repo containing all of the relevant resources for each video
 
 *To inquire about a seminar for your student group or organization please reach out to the following email:*
 - 📩 support [at] quantguild [dot] com
-
+- 📩 support [at] discourses [dot] io
 ---
 
