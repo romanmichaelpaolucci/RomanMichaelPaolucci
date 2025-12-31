@@ -1,18 +1,22 @@
 # 👋 I'm Roman, Founder of Quant Guild, CEO of discourses.io
 
-<a href="https://www.discourses.io"><img src="discourses.dev.png" alt="Quant Guild Logo"/></a>
-
-## 🌀 discourses.io | Where Markets are Discussed
-
-A (free) financial social media app and data product leveraging academic and professional quantitative research
-
-[discourses.io](https://discourses.io)
+<a href="https://www.quantguild.com"><img src="qg_banner.png" alt="Quant Guild Logo"/></a>
 
 ## 🚀 Master Quantitative Skills with Quant Guild
 
 I built **Quant Guild** from scratch to help aspiring quants learn the necessary skills. 
 
 [Quant Guild Platform](https://quantguild.com)
+
+---
+
+<a href="https://www.discourses.io"><img src="discourses.dev.png" alt="discourses.io Logo"/></a>
+
+## 🌀 discourses.io | Where Markets are Discussed
+
+A (free) financial social media app and data product leveraging academic and professional quantitative research
+
+[discourses.io](https://discourses.io)
 
 ---
 
