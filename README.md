@@ -10,16 +10,6 @@ I built **Quant Guild** from scratch to help aspiring quants learn the necessary
 
 ---
 
-<a href="https://www.discourses.io"><img src="discourses.dev.png" alt="discourses.io Logo"/></a>
-
-## 🌀 discourses.io | Where Markets are Discussed
-
-A (free) financial social media app and data product leveraging academic and professional quantitative research
-
-[discourses.io](https://discourses.io)
-
----
-
 ## 📚 Lecture Video Library
 
 I quite enjoy lecturing about quantitative topics!  
