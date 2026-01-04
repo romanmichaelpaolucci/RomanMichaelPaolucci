@@ -1,4 +1,4 @@
-# 👋 I'm Roman, Founder of Quant Guild, CEO of discourses.io
+# 👋 I'm Roman, Founder of Quant Guild
 
 <a href="https://www.quantguild.com"><img src="qg_banner.png" alt="Quant Guild Logo"/></a>
 
@@ -45,7 +45,6 @@ I've also created a repo containing all of the relevant resources for each video
 ## 📫 Connect with Me
 
 **Socials:**
-* **discourses.io** [@quantguild](https://discourses.io/u/quantguild)
 * **Instagram:** [@quantguild](https://www.instagram.com/quantguild)
 * **TikTok:** [@quantguild](https://www.tiktok.com/@quantguild)
 * **Medium:** [@quantguild](https://medium.com/@quantguild)
