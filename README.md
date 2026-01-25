@@ -27,7 +27,6 @@ I've also created a repo containing all of the relevant resources for each video
 ## 🐍 Python Libraries
 
 **Python Packages:**
-* **[discourses](https://github.com/romanmichaelpaolucci/discourses)**: (A Python SDK for [discourses.io](https://discourses.io)) 
 * **[Q-Fin](https://github.com/romanmichaelpaolucci/Q-Fin)**: (A working Python library for mathematical finance. *Deployed, in development*)
 * **[Gaussian Cookbook](https://github.com/romanmichaelpaolucci/GaussianCookbook)**: (A series of notes (articles) and an open-source Python library for simulating stochastic processes.  *Not Deployed, in development*)
 
@@ -54,6 +53,5 @@ I've also created a repo containing all of the relevant resources for each video
 
 *To inquire about a seminar for your student group or organization please reach out to the following email:*
 - 📩 support [at] quantguild [dot] com
-- 📩 support [at] discourses [dot] io
 ---
 
