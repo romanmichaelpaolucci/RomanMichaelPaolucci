@@ -8,11 +8,6 @@ I built **Quant Guild** from scratch to help aspiring quants learn the necessary
 
 [Quant Guild Platform](https://quantguild.com)
 
-I quite enjoy meeting with students and professionals to offer guidance in any aspect of their lives, what I've been calling <i>quantitative council</i>.
-
-🧮 Need a Quant?  Meet with Me 1:1
-https://calendly.com/quantguild/quantitative-council
-
 ---
 
 ## 📚 Lecture Video Library
