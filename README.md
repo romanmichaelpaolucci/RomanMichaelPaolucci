@@ -2,11 +2,15 @@
 
 <a href="https://www.quantguild.com"><img src="qg_banner.png" alt="Quant Guild Logo"/></a>
 
-## 🚀 Master Quantitative Skills with Quant Guild
+## 🚀 Master Quantitative Skills with Quant Guild and discourses.io
 
 I built **Quant Guild** from scratch to help aspiring quants learn the necessary skills. 
 
 [Quant Guild Platform](https://quantguild.com)
+
+I'm also building the most advanced social media platform for real-time sentiment analysis
+
+[It's like Instagram, but for Trading](https://discourses.io)
 
 ---
 
