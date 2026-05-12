@@ -4,7 +4,7 @@
 
 ## 🌀 Play the Markets like an RPG with discourses.io
 
-I built discourses.io from scratch to help making trading not feel like a grind in a vacuum and stay consistent like an RPG ecosystem.
+I built discourses.io so you never have to trade in a vacuum again. It turns the daily market grind into an RPG-style ecosystem that rewards your consistency with rare drops and trackable progress.
 
 [⚔️ Trade like an RPG](https://discourses.io)
 
