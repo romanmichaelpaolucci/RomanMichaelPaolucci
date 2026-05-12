@@ -2,7 +2,7 @@
 
 <a href="https://www.discourses.io"><img src="discourses_main.png" alt="discourses.io main"/></a>
 
-## 🌀 Play the Markets Like an RPG with discourses.io
+## 🌀 Play the Markets like an RPG with discourses.io
 
 I built discourses.io from scratch to help making trading not feel like a grind in a vacuum and stay consistent like an RPG ecosystem.
 
