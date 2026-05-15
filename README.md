@@ -1,6 +1,6 @@
 # 👋 I'm Roman, Founder of Quant Guild and discourses.io
 
-<a href="https://www.discourses.io"><img src="discourses_main.png" alt="discourses.io main"/></a>
+<a href="https://www.discourses.io"><img src="discourses_home.png" alt="discourses.io main"/></a>
 
 ## 🌀 Play the Markets like an RPG with discourses.io
 
