@@ -8,6 +8,8 @@ I built discourses.io so you never have to trade in a vacuum again. It turns the
 
 [⚔️ Trade like an RPG](https://discourses.io)
 
+<a href="https://www.quantguild.com"><img src="qg_banner.png" alt="Quant Guild Logo"/></a>
+
 ## 🚀 Master Quantitative Skills with Quant Guild 
 
 I built **Quant Guild** from scratch to help aspiring quants learn the necessary skills. 
