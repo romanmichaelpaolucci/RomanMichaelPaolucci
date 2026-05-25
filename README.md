@@ -1,15 +1,5 @@
 # 👋 I'm Roman, Founder of Quant Guild and discourses.io
 
-<a href="https://www.discourses.io"><img src="discourses_home.png" alt="discourses.io main"/></a>
-
-## 🌀 Play the Markets like an RPG with discourses.io
-
-I built discourses.io so you never have to trade in a vacuum again. It turns the daily market grind into an RPG-style ecosystem that rewards your consistency with rare drops and trackable progress.
-
-[⚔️ Trade like an RPG](https://discourses.io)
-
----
-
 <a href="https://www.quantguild.com"><img src="qg_banner.png" alt="Quant Guild Logo"/></a>
 
 ## 🚀 Master Quantitative Skills with Quant Guild 
@@ -17,6 +7,16 @@ I built discourses.io so you never have to trade in a vacuum again. It turns the
 I built **Quant Guild** from scratch to help aspiring quants learn the necessary skills. 
 
 [🪐 Quant Guild Platform](https://quantguild.com)
+
+---
+
+<a href="https://www.discourses.io"><img src="discourses_home.png" alt="discourses.io main"/></a>
+
+## 🌀 Play the Markets like an RPG with discourses.io
+
+I built discourses.io so you never have to trade in a vacuum again. It turns the daily market grind into an RPG-style ecosystem that rewards your consistency with rare drops and trackable progress.
+
+[⚔️ Trade like an RPG](https://discourses.io)
 
 ---
 
