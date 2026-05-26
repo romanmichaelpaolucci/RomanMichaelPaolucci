@@ -1,4 +1,4 @@
-# 👋 I'm Roman, Founder of Quant Guild and discourses.io
+# 👋 I'm Roman, Founder of Quant Guild
 
 <a href="https://www.quantguild.com"><img src="qg_banner.png" alt="Quant Guild Logo"/></a>
 
@@ -7,10 +7,6 @@
 I built **Quant Guild** from scratch to help aspiring quants learn the necessary skills. 
 
 [🪐 Quant Guild Platform](https://quantguild.com)
-
----
-
-<a href="https://www.discourses.io"><img src="discourses_home.png" alt="discourses.io main"/></a>
 
 ## 🌀 Play the Markets like an RPG with discourses.io
 
