@@ -1,6 +1,4 @@
-# 👋 I'm Roman, Founder of Quant Guild
-
-<a href="https://www.quantguild.com"><img src="qg_banner.png" alt="Quant Guild Logo"/></a>
+# 👋 I'm Roman, Founder and CEO of Quant Guild
 
 ## 🚀 Master Quantitative Skills with Quant Guild 
 
