@@ -1,12 +1,4 @@
-# 👋 I'm Roman, Founder and CEO of Quant Guild
-
-## 🚀 Master Quantitative Skills with Quant Guild 
-
-I built **Quant Guild** from scratch to help aspiring quants learn the necessary skills. 
-
-[🪐 Quant Guild Platform](https://quantguild.com)
-
----
+# 👋 I'm Roman, Founder of Quant Guild
 
 ## 📚 Lecture Video Library
 
