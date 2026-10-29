@@ -2,7 +2,7 @@
 
 ## 📚 Lecture Video Library
 
-I quite enjoy lecturing about quantitative topics!  
+I quite enjoy lecturing about quantitative topics.
 
 I have 100+ lecture videos available from randomized numerical linear algebra to the simulation of fractional Brownian motion.
 
