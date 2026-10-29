@@ -1,6 +1,8 @@
 # 👋 I'm Roman, the Leader of Quant Guild
 
-![Alternative Text](qgcbanner.png)
+<a href="https://quantguild.com" target="_blank">
+  <img src="qgcbanner.png" alt="Alternative Text">
+</a>
 
 ## 📚 Lecture Video Library
 
