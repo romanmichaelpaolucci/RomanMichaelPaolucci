@@ -1,5 +1,3 @@
-# 👋 I'm Roman, the Leader of Quant Guild
-
 <a href="https://quantguild.com" target="_blank">
   <img src="qgcbanner.png" alt="Alternative Text">
 </a>
