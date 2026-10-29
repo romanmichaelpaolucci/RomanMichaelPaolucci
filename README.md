@@ -1,4 +1,6 @@
-# 👋 I'm Roman, Founder of Quant Guild
+# 👋 I'm Roman, the Leader of Quant Guild
+
+![Alternative Text](qgcbanner.png)
 
 ## 📚 Lecture Video Library
 
