@@ -16,13 +16,6 @@ I've also created a repo containing all of the relevant resources for each video
 
 ---
 
-## 🐍 Python Libraries
-
-**Python Packages:**
-* **[Q-Fin](https://github.com/romanmichaelpaolucci/Q-Fin)**: (A working Python library for mathematical finance. *Deployed, in development*)
-
----
-
 ## 📫 Connect with Me
 
 **Socials:**
