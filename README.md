@@ -16,17 +16,3 @@ I've also created a repo containing all of the relevant resources for each video
 
 ---
 
-## 📫 Connect with Me
-
-**Socials:**
-* **Instagram:** [@quantguild](https://www.instagram.com/quantguild)
-* **TikTok:** [@quantguild](https://www.tiktok.com/@quantguild)
-* **Medium:** [@quantguild](https://medium.com/@quantguild)
-* **X (Twitter):** [@quantguild](https://x.com/quantguild)
-* **LinkedIn (Personal):** [rmp99](https://www.linkedin.com/in/rmp99/)
-* **LinkedIn (Company):**[@quantguild](https://www.linkedin.com/company/quant-guild)
-
-*To inquire about a seminar for your student group or organization please reach out to the following email:*
-- 📩 support [at] quantguild [dot] com
----
-
