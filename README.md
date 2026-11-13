@@ -1,7 +1,3 @@
-<a href="https://quantguild.com" target="_blank">
-  <img src="qgcbanner.png" alt="Alternative Text">
-</a>
-
 ## 📚 Lecture Video Library
 
 I quite enjoy lecturing about quantitative topics.
